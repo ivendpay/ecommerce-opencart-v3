@@ -1,0 +1,3 @@
+<?php
+
+define('IVENDPAY_OPENCART_EXTENSION_VERSION', '3.2.0');
